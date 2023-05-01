@@ -1,16 +1,22 @@
-### Hi there 👋
+```python
+class Human():
+  __KNOWLEDGE = []
 
-<!--
-**ItsDixie/ItsDixie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  def __init__(self, nationality, sex, birthday):
+    self.nationality = nationality
+    self.sex         = sex
+    self.birthday    = birthday
+    
+  def birthday(self):
+    if(current.date = self.birthday):
+      self.age += 1
+   
+  def learn(self, knowledge):
+    self.__KNOWLEDGE.append(knowledge)
+  
+Dixxe = Human('Russian', 'Male', '02.07')
+Dixxe.learn('junior python')
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to my profile!
+    
+    

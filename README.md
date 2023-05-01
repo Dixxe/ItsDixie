@@ -1,6 +1,6 @@
 ```python
 class Human():
-  __KNOWLEDGE = []
+  __KNOWLEDGE = ['Math', 'Rusty English', 'Russian']
 
   def __init__(self, nationality, sex, birthday):
     self.nationality = nationality

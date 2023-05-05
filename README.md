@@ -18,7 +18,7 @@ class Human():
 Dixxe = Human('Russian', 'Male', '02.07')
 Dixxe.learn('junior python')
 ```
-# My current stats
+---
 
 ㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDixie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

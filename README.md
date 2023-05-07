@@ -10,6 +10,9 @@ I'm a junior Python developer with a passion for coding and an open-minded appro
 🤝 Collaboration: I believe that the best work comes from working together. I'm always open to collaboration and eager to learn from others.
 
 # My Skills:
+
+Languages: Russian, Rusty English
+
 Programming Languages: Python, JavaScript
 
 Frameworks/Libraries: Sklearn, Pandas, Disnake
@@ -22,7 +25,7 @@ I'm looking for opportunities to work on interesting Python projects that challe
 #Let's Connect!
 If you're interested in connecting or learning more about me, please feel free to check out my GitHub repositories!
 
-# Some stats about me:
+# My statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsDixie&theme=tokyonight)](https://git.io/streak-stats)ㅤㅤㅤ[![ItsDixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsDixie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDixie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 

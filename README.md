@@ -27,7 +27,7 @@ If you're interested in connecting or learning more about me, please feel free t
 
 # My statistics:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsDixie&theme=tokyonight)](https://git.io/streak-stats)ㅤ[![ItsDixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsDixie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDixie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsDixie&theme=tokyonight)](https://git.io/streak-stats)ㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDixie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
